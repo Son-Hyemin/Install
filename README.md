@@ -1,6 +1,8 @@
 # Install
-Install
+여러 DBMS 들을 설치하고 정리해 놓은 공간 입니다.
 
+<br/>
+<br/>
 
 ## Oracle
 
@@ -9,11 +11,14 @@ Install
    - Storage Type : ASM
    - Install : Silent mode (CLI)
 
+<br/>
+
 
 3. 11g RAC 설치
 리눅스 기반의 2 NODE RAC 구성 : 📍[설치과정 파일 확인](https://github.com/Son-Hyemin/Oracle-DB-Project/tree/cf318be810b74307040dcfa3ea6f6b5cebe8c2e5/4.%2011g%20RAC%20%EC%84%A4%EC%B9%98)
 
-
+<br/>
+<br/>
 
 ## MySQL
 
